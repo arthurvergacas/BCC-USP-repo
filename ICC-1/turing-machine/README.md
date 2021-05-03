@@ -12,7 +12,7 @@
 
 This project implements the concept of a **Turing Machine** to increment a binary number by one. The algorithm can be written as follows:
 
-```md
+```
 1 Read the current cell
 2 If the number is 0:
 3 Write 1
