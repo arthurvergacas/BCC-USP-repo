@@ -8,4 +8,4 @@
 
 ### Summary
 
-[Turing Machine](./turing-machine)
+- [Turing Machine](./turing-machine)
