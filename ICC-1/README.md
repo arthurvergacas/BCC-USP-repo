@@ -6,6 +6,6 @@
 
 ---
 
-## Summary
+### Summary
 
 [Turing Machine](./turing-machine)
