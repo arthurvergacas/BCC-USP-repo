@@ -4,8 +4,6 @@
 
 ### _Introduction to Computer Science_
 
----
-
 ### Summary
 
 - [Turing Machine](./turing-machine)
